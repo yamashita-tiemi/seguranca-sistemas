@@ -105,3 +105,7 @@ if __name__ == "__main__":
                 
         except ValueError:
             print("\nValor válido.")
+    
+        except KeyboardInterrupt:
+            print("\nEncerrando o programa...")
+            break
