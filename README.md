@@ -8,7 +8,7 @@ Para algumas atividades, foram utilizadas ferramentas de inteligência artificia
 
 - [Role-Based Access Control (RBAC):](./RBAC.py) Define permissões com base nos papéis atribuídos aos usuários.
 
-- OAuth2: Protocolo de autorização que permite acesso limitado a recursos de um usuário por meio de tokens.
+- [OAuth2:](./OAuth2) Protocolo de autorização que permite acesso limitado a recursos de um usuário por meio de tokens.
 
 - [Cifra de César:](./CifraDeCesar) Realiza uma substituição simples de letras, deslocando cada caractere do texto original por um número fixo de posições no alfabeto.
 
